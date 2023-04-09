@@ -32,7 +32,7 @@ const Mainpage = () => {
           {profile.username}
         </Grid>
         <Grid item xs>
-          <span sata-testid="span-title" className="mainPage__title">
+          <span data-testid="span-title" className="mainPage__title">
             Vehicle register system
           </span>
         </Grid>
